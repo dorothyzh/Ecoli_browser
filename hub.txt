@@ -1,0 +1,6 @@
+hub.txt:
+hub Ecoli_NAD
+shortLabel Ath_ONT_information
+longLabel Ath_ONT_information
+genomesFile genomes.txt
+email zhdorothy5@gmail.com
